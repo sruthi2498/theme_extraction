@@ -4,7 +4,7 @@ import categorize_rev
 from categorize_rev import *
 import pandas
 
-fpath=os.path.join("data", "categorized_reviews.txt")
+fpath=os.path.join("data", "input_reviews.txt")
 f=open(fpath,'r')
 fpath2=os.path.join("data", "categorized_reviews_sentences_2.txt")
 
