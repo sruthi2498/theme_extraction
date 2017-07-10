@@ -1,5 +1,5 @@
 # theme_extraction
-# Extracting the outling theme from restuarant reviews using scikit.
+# Extracting the outlining theme from restaurant reviews using scikit.
 
 To run the python file :
 	
