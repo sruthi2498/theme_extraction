@@ -4,21 +4,21 @@ Extracting the outling theme from restuarant reviews using scikit.
 
 To run the python file :
 
-$ python categorize_rev_user.py 
+	$ python categorize_rev_user.py 
 #This uses the file input_reviews.txt as input
 
 To view the web front end :
 
-Set up localhost and open webpage.html
+	Set up localhost and open webpage.html
 
 Creating a data set : Extracted 10000+ reviews from Zomato using Python Selenium :
 
-1)Installing selelnium : (http://selenium-python.readthedocs.io/installation.html)
-	pip install selenium
+	1)Installing selelnium : (http://selenium-python.readthedocs.io/installation.html)
+		pip install selenium
 
 Setting up scikit :
 
-1) http://ogrisel.github.io/scikit-learn.org/sklearn-tutorial/tutorial/text_analytics/setup.html
+	1) http://ogrisel.github.io/scikit-learn.org/sklearn-tutorial/tutorial/text_analytics/setup.html
 
 Theme extraction using scikit :
 
@@ -32,9 +32,4 @@ Theme extraction using scikit :
       (Refer to tutorial)
     4) Predict for the test set and show accuracy.
 
-Basic front-end to show working of this process :
 
-Required : Apache PHP 
-Upload a CSV file containing reviews
-	Format must be : "restuarant-name","cusine","review"
-Predicted result for each senetnce of the review is displayed.
