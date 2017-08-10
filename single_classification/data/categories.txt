@@ -1,0 +1,22 @@
+sanitation
+taste
+presentation
+ingredients
+location
+atmosphere
+price
+delivery
+waiters
+reservation
+parking
+decor
+rating
+company
+filler
+tax
+food
+opening time
+quantity
+bar
+seating
+service
