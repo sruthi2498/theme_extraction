@@ -1,11 +1,13 @@
 # theme_extraction
 Extracting the outling theme from restuarant reviews using scikit.
 
+# Difference between single and multiple classification :
+	https://docs.google.com/document/d/1jfk09bXUUGAuir7bUkALJoU_fQdw135KgkauKI8TbOs/edit
 
 To run the python file :
 
 	$ python categorize_rev_user.py 
-#This uses the file input_reviews.txt as input
+
 
 To view the web front end :
 
